@@ -25,7 +25,7 @@
 
     <div class="item-tags padding">
       <h5>Tags:</h5>
-      <span ng-repeat="tag in item.tags">{{tag}}{{$last ? '' : ', '}}</span>
+      <span ng-repeat="tag in item.tags track by $index">{{tag}}{{$last ? '' : ', '}}</span>
     </div>
   </ion-content>
 </ion-view>

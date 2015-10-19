@@ -16,9 +16,10 @@ angular.module('bos-items.controllers', [])
   $scope.searchTerm = '';
   $scope.items = [];
 
-  itemFactory.getItems().success(function(res){
-    $scope.items = res;
-  });
+  $scope.items = itemFactory.getItems();
+  //itemFactory.getItems().success(function(res){
+  //  $scope.items = res;
+  //});
 
 })
 
@@ -29,16 +30,14 @@ angular.module('bos-items.controllers', [])
 
   var id = parseInt($stateParams.itemId, 10);
 
-  itemFactory.getItems().success(function(res){
+  $scope.items = itemFactory.getItems();
 
-    angular.forEach(res, function(item){
-      if( item.sid === id){
-        $scope.item = item;
-      }
-    })
-  });
-
-  console.log($scope.item);
+  for(var i=0; i<$scope.items.length; i++){
+    if( $scope.items[i].sid === id){
+      $scope.item = $scope.items[i];
+      break;
+    }
+  }
 })
 
 .filter('searchItems', function(){
@@ -105,7 +104,8 @@ angular.module('bos-items.controllers', [])
   };
 
   itemFactory.getItems = function () {
-    return $http.get(urlBase + 'items.json', {cache: true});
+    return ionBos.helpers.items;
+    //return $http.get(urlBase + 'items.json', {cache: true});
   };
 
   return itemFactory;
