@@ -12,7 +12,7 @@
       <ion-list>
         <ion-item
           class="item-icon-left"
-          ng-repeat="item in items | searchItems:searchTerm"
+          ng-repeat="item in items | searchItems:searchTerm track by item.sid"
           href="#/app/item/{{ item.sid }}">
             <i class="icon rebirth-item r-itm{{ helpers.pad(item.sid, 3) }}"></i>
             {{item.title}}
