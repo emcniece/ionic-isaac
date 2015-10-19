@@ -63,9 +63,7 @@ angular.module('bos-items.controllers', [])
     angular.forEach(items, function(item, index){
       if( item.title.toLowerCase().indexOf(query) > -1 ){
         filtered.push(item);
-      } else if( JSON.stringify(item).toLowerCase().indexOf(query) > -1){
-        filtered.push(item);
-      }
+      } 
     });
 
     return filtered;
