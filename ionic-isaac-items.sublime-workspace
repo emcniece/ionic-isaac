@@ -1,0 +1,817 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is_int",
+				"is_integer"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wp_dequeue",
+				"wp_dequeue_style"
+			],
+			[
+				"get_template_",
+				"get_template_directory_uri"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"get_style",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"reqs",
+				"reqsAuth"
+			],
+			[
+				"prefere",
+				"preferredPayment"
+			],
+			[
+				"Custom",
+				"CustomerLastName"
+			],
+			[
+				"Customer",
+				"CustomerFirstName"
+			],
+			[
+				"otSE",
+				"otSettingName"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"raganadv",
+				"raganadvertising"
+			],
+			[
+				"discl",
+				"disclaimer-id"
+			],
+			[
+				"emc2pd",
+				"emc2pdc_agree"
+			],
+			[
+				"mysql_esc",
+				"mysql_real_escape_string"
+			],
+			[
+				"emc2",
+				"emc2pdc_infobox"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"aOption",
+				"aOptionMeta"
+			],
+			[
+				"ao",
+				"aOptionMeta"
+			],
+			[
+				"aOpt",
+				"aOptionMeta"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ionic-isaac-items.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/G/Downloads/isaac-items/The Binding of Isaac_ Rebirth Items _ Isaac Cheat Sheet - Platinum God_files/main.js",
+			"settings":
+			{
+				"buffer_size": 16301,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "• +1 Health Up\nmain.js:490 • Fully restores all red heart containers\nmain.js:490 • Has a chance to drop from the Gluttony miniboss fight.\nmain.js:490 • A familiar fly that can be moved around via use of the arrow keys dealing 2.5 contact damage per tick, similar to the Ludovico Technique's mechanic.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • Gives the player an extra life\nmain.js:490 • When revived, the green mushroom that follows Isaac will disappear and he will respawn with the same amount of red heart containers at full health.\nmain.js:490 • Resurrection takes place before all other items which give you an extra live, except Guppy's Collar.\nmain.js:490 • Isaac now shoots from both eyes at the same time.\nmain.js:490 • Unlike the Inner Eye and Mutant Spider items, this double shot item does not give a tears down, effectively giving you double damage per second potential.\nmain.js:490 • Random tear effect for every room.\nmain.js:490 • Possible tear effects: Fire Mind, Spoon Bender, My Reflection, Ouija Board, 20/20, Inner Eye, Iron Bar, Death's Touch, Scorpio, Tough Love, Proptosis, Number One, Mom's Contacts, Ball of Tar, Dark Matter, Speed Ball or Sagittarius.\nmain.js:490 • Automatically gives you 1 bar of charge after using your spacebar item.\nmain.js:490 • Fully recharges your current spacebar item when picked up.\nmain.js:490 • Causes the Sharp Plug item to become useless due to the fact that you can never have 0 charge on your spacebar item.\nmain.js:490 • Any items which are normally a 1 room recharge are now timed instead.\nmain.js:490 • On pickup removes all of your red hearts and gives you 6 black hearts.\nmain.js:490 • +1.5 Damage Up.\nmain.js:490 • +0.2 Speed Up.\nmain.js:490 • Tears now have a chance to induce the fear effect, causing enemies to run away from Isaac for a short period.\nmain.js:490 • The chance to fear enemies is affected by your luck stat and at +85 Luck it will activate every time.\nmain.js:490 • When depleted, Black Hearts deal 40 damage to the entire room, in a Necronomicon style effect.\nmain.js:490 • A familiar that mirrors the player's movements and shoots tears in the opposite direction.\nmain.js:490 • Abel's tears do the same as Isaac's base damage (3.5).\nmain.js:490 • In larger rooms, Abel will mirror to the other side of the screen instead of the entire room.\nmain.js:490 • Spawns troll bombs at random locations around the room.\nmain.js:490 • Bombs are effected by other passive bomb items.\nmain.js:490 • Has a chance to drop from the Pride miniboss fight.\nmain.js:490 • +5 Range Up.\nmain.js:490 • When Isaac takes damage, he will start to leave a trail of blood creep behind him as he walks for the current room.\nmain.js:490 • Lazarus' revived form (Lazarus II) respawns with this item.\nmain.js:490 • Upon death, the player respawns as Blue Baby with three Soul hearts.\nmain.js:490 • This is a one time use item and all new heart containers will be soul hearts.\nmain.js:490 • Can be used to unlock some of Blue Baby's secrets before having the character available.\nmain.js:490 • -2 Tear Delay (Tears Up).\nmain.js:490 • As you hold down the fire button, shots will float in the same place until you release the fire key again.\nmain.js:490 • Allows you to store up a lot of tears in the air and release them all at once.\nmain.js:490 • When the tears are released, they will fire off in the direction that Isaac was originally facing when it was created.\nmain.js:490 • Leaves a trail of tears on the floor behind Isaac which damages enemies that walk over it for 2 damage per tick.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • +0.25 Speed up.\nmain.js:490 • Gives huge horns which stick out, allowing you to deal 18 contact damage if you hit something with enough speed.\nmain.js:490 • Will not deal contact damage unless you are moving fast enough, but does not prevent you from taking damage yourself.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • Gives Isaac an orbital ball of bandages that deals 7 contact damage per tick. Unlike the Cube of Meat, it does not block enemy shots.\nmain.js:490 • Collecting a second Ball of Bandages in the run turns the orbital into a pink head that shoots tears that deal 7 damage each and have a chance to charm enemies.\nmain.js:490 • Getting a third Ball of Bandages will transform the head into bandage girl which will chase enemies dealing 3.5 contact damage per tick while firing charm tears.\nmain.js:490 • A fourth Ball of Bandages will make the Bandage Girl bigger and stronger, making her deal 5.5 damage per tick instead.\nmain.js:490 • Any further Ball of Bandages will repeat the cycle.\nmain.js:490 • Charmed enemies will prioritize attacking other enemies in the room, otherwise they will still attack Isaac.\nmain.js:490 • Has a chance to drop from one of the Horsemen bosses and can be received from using Monster Manual.\nmain.js:490 • Isaac leaves a trail of tar behind him which will slow down enemies that walk over it.\nmain.js:490 • Tears have a chance to slow enemies and their projectiles for a short period of time.\nmain.js:490 • The chance to slow enemies can improve based on your luck stat and will always slow enemies at +18 Luck.\nmain.js:490 • All spacebar items can now be 'overcharged', allowing them to be charged up twice instead of once.\nmain.js:490 • The extra charges appear in yellow on top of the normal green bars.\nmain.js:490 • Has no effect with items which recharge over time instead of on a per-room basis.\nmain.js:490 • A large familiar black fly that bounces around the room, exploding on contact with enemies dealing 70 damage.\nmain.js:490 • Does not explode if it hits Isaac, however if it explodes on an enemy while Isaac is in range, he will take damage.\nmain.js:490 • Respawns after 10 seconds or by moving to another room.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • Upon use, this item causes Isaac to fart and poison any enemies in close proximity.\nmain.js:490 • The Bean deals 26 damage total (5 initially then 21 in a Damage over Time effect.\nmain.js:490 • +0.3 Speed Up.\nmain.js:490 • When Isaac takes damage, a white attack fly will spawn that orbits him at a similar distance to the Distant Admiration fly.\nmain.js:490 • The fly orbits a lot faster than Distant Admiration or Forever Alone and deals 5 damage per tick.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • Places a decoy on the floor which attracts enemies and explodes after a period of time.\nmain.js:490 • When it explodes, it deals 110 damage to everything in radius (Same damage as Mr Mega bombs).\nmain.js:490 • Makes all of Isaac's familiars much bigger, making them deal more damage.\nmain.js:490 • Causes all familiars to deal double damage (x2 / +100%).\nmain.js:490 • Has no effect on Rotten Baby, which instead benefits from Hive Mind.\nmain.js:490 • Gives Isaac angel wings for the current room, allowing him to fly.\nmain.js:490 • If used during the Mom's Foot or Mom's Heart boss fights, The Bible will kill Mom instantly.\nmain.js:490 • If used during the Satan fight, The Bible will instantly kill Isaac.\nmain.js:490 • A very large orbital that moves around Isaac very slowly, blocking shots and dealing 2 contact damage per tick.\nmain.js:490 • Affects the speed of all other orbitals, slowing them down a lot (NOTE: This effect does not happen until you get a new orbital after Big Fan).\nmain.js:490 • Does not count as one of your three standard orbitals, allowing you to have a total of 4.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • Upon taking damage, Isaac will fart, causing all enemies in close proximity to become poisoned.\nmain.js:490 • Black Bean deals 26 damage total (5 initially then 21 in a Damage over Time effect.\nmain.js:490 • +1 Black Heart.\nmain.js:490 • Immunity to all floor curses (e.g. Curse of the Lost)\nmain.js:490 • When depleted, Black Hearts deal 40 damage to the entire room, in a Necronomicon style effect.\nmain.js:490 • An item that can appear in the shop room or in a Curse Room.\nmain.js:490 • +30% Higher chance of a Devil Deal opening after the boss fight.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +1 Soul Heart.\nmain.js:490 • +1 Black Heart.\nmain.js:490 • When depleted, Black Hearts deal 40 damage to the entire room, in a Necronomicon style effect.\nmain.js:490 • An item only found in the secret room pool.\nmain.js:490 • When used, copies the effect of the tarot card you are currently holding.\nmain.js:490 • The Blank Card can also be used to mimic mystic runes as well as tarot cards.\nmain.js:490 • An item that often appears in the shop.\nmain.js:490 • +1 Health Up\nmain.js:490 • +0.3 Speed Up (Only applied after the speed stat is next updated)\nmain.js:490 • Heals for 5 full red hearts.\nmain.js:490 • Has a chance to drop while playing any Blood Donation machine.\nmain.js:490 • +1.0 Damage Up (Left eye only).\nmain.js:490 • +5 Range Up (Left eye only).\nmain.js:490 • The above stats only apply to tears fired from Isaac's left eye or with a 50% chance if you have an item which causes you to fire from a single source only.\nmain.js:490 • +1.0 Damage Up.\nmain.js:490 • +50% / 1.5 times Damage Multiplier if you also have Book of Belial (Does not stack with Magic Mushroom or Cricket's Head multipliers)\nmain.js:490 • This item can only be found in the item room pool, unlike the original game where it was also a god item\nmain.js:490 • Upon use, takes away one full heart and deals 40 damage to the entire room.\nmain.js:490 • With the Isaac's Heart item, you can use Blood Rights without taking damage.\nmain.js:490 • Each time you take damage, you gain a damage up which lasts for the rest of the floor and turn a darker red colour each time.\nmain.js:490 • After taking 6 hits you will cap at +6.5 Damage for the rest of the floor.\nmain.js:490 • Damage given for each hit increases as follows: +0.5, +0.5, +0.5, +1.66, +1.66, +1.66.\nmain.js:490 • Bloody lust works differently in Rebirth - Damage is given for taking damage and is persistent for the entire floor.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +0.7 Tears Up.\nmain.js:490 • -0.16 Shot Speed Down.\nmain.js:490 • An item only found in the Boss Room pool.\nmain.js:490 • Reveals the locations of the secret and super secret room for the current floor and all future floors.\nmain.js:490 • A green brain that launches in the direction you are firing your tears and will explode on contact with enemies, dealing damage and poisoning anything in the blast radius.\nmain.js:490 • Bob's Brain can deal anywhere between 67.5 - 69.5 damage (63.5 on hit then 4 or 6 as damage over time poison) and this will scale with further bomb upgrade items.\nmain.js:490 • Regenerates over time.\nmain.js:490 • Will hurt Isaac if he is in the blast radius.\nmain.js:490 • All of Isaac's bombs now leave a poison effect on any enemies within the blast radius.\nmain.js:490 • +5 Bombs.\nmain.js:490 • As well as dealing the standard 60 damage for a bomb, it will apply a Damage over Time effect that does 4 or 6 damage per tick.\nmain.js:490 • Has a chance to drop from the Super Sloth miniboss fight.\nmain.js:490 • A poison bomb which can be thrown and leaves a poison effect on any enemies within the blast radius.\nmain.js:490 • The bomb deals 50 damage on hit and leaves a damage over time poison effect that does 6 or 8 damage per tick.\nmain.js:490 • Synergizes with tear modifying items such as My Reflection or Tiny Planet.\nmain.js:490 • Has a chance to drop from the Sloth miniboss fight.\nmain.js:490 • All of Isaac's bombs now having a homing effect when placed on the floor.\nmain.js:490 • +5 Bombs.\nmain.js:490 • +3 Health Up.\nmain.js:490 • The three heart containers are pre-filled with red hearts.\nmain.js:490 • All bomb pickups are now 1+1 bombs.\nmain.js:490 • An item only found in the Shop item pool.\nmain.js:490 • A bag of bombs that will drop a bomb pickup every 2 rooms.\nmain.js:490 • Upon use, gives +2 damage up which lasts for the current room.\nmain.js:490 • +50% / 1.5 times Damage Multiplier if you also have Blood of the Martyr (Does not stack with Magic Mushroom or Cricket's Head multipliers).\nmain.js:490 • Guaranteed Devil or Angel Room if you have it when you kill the boss on all floors where it's possible to get one.\nmain.js:490 • Judas starts with this item.\nmain.js:490 • Upon use, gives Isaac an extra Soul heart.\nmain.js:490 • Using this item gives you a higher chance of finding a horsemen boss at the end of the floor.\nmain.js:490 • Higher chance of a Devil Deal opening after the boss fight (Exact chance unknown).\nmain.js:490 • When used, you have a chance of getting one of the three following effects: Treasure Map (floor layout), Compass (map icons) or Blue Map (secret room locations)\nmain.js:490 • Gives the player an invulnerability effect which lasts for a few seconds.\nmain.js:490 • Spawns a random pickup on the floor.\nmain.js:490 • The possible pickups from this item include: Bombs, hearts, keys, coins, pills, batteries or tarot cards.\nmain.js:490 • +10 Bombs\nmain.js:490 • A blue boomerang which can be thrown in a similar fashion to Mom's Knife, to stun any enemies it hits and deal damage.\nmain.js:490 • The damage dealt by the Boomerang is equal to double your tear damage.\nmain.js:490 • The boomerang can also be used to grab pickups and consumables from a distance, similar to the legend of zelda boomerang.\nmain.js:490 • The range of the boomerang is affected by range, with number one the distance is very short and makes the item a lot less effective.\nmain.js:490 • Spawns one of each type of pickup.\nmain.js:490 • Pickups spawned: 1 heart, 1 key, 1 bomb, 1 coin, 1 card, 1 pill and 1 trinket.\nmain.js:490 • When used, spawns 2-4 friendly blue spiders on the floor.\nmain.js:490 • Blue Spiders do 2.5x of Isaac's damage.\nmain.js:490 • +1 Health Up.\nmain.js:490 • While you hold the spacebar down with this item, it will de-charge gradually and when the charge bar gets to zero it will grant you a brief period of invincibility.\nmain.js:490 • If the spacebar is held for too long (about 1 second) when it has no charge, you will take damage.\nmain.js:490 • Tears are replaced with the ability to charge and fire a powerful laser that travels in a straight line across the room, dealing a lot of damage (damage * 13) to any enemies it comes into contact with.\nmain.js:490 • Does not directly affect your Damage stat but hits enemies 13 times per charge, spawning Guppy flies with every hit.\nmain.js:490 • Synergizes very well with a lot of items including Tammy's Head, Tiny Planet, Inner Eye (Triple Shot), Mutant Spider (Quad Shot) and many others.\nmain.js:490 • An item only found in the devil room pool (Note: The Fallen boss pulls items from the Devil Room Pool)\nmain.js:490 • Lump of Coal gives no benefit to Brimstone in Rebirth.\nmain.js:490 • Upon entering a new room, you now have a chance to randomly slow down or speed up all enemies in the room.\nmain.js:490 • An item only found in the Shop item pool.\nmain.js:490 • A familiar which follows Isaac and shoots normal tears which do 3.5 damage.\nmain.js:490 • Brother Bobby fires tears at a rate of 1 tear per second.\nmain.js:490 • +2 Health Up.\nmain.js:490 • -0.2 Speed Down.\nmain.js:490 • Of the two heart containers given from this item, only 1/2 a red heart of them is filled.\nmain.js:490 • Has a chance to drop from the Super Gluttony miniboss fight.\nmain.js:490 • A beggar who follows Isaac around and automatically picks up nearby coins. After picking up a coin he has a random chance to drop pickups, including hearts, keys, bombs, coins, pills, cards or trinkets.\nmain.js:490 • +5 bombs.\nmain.js:490 • Bombs now become poop bombs, which deal 10 damage to all enemies in the room and daze them for a short period of time.\nmain.js:490 • When used, farts on nearby enemies and knocks them backwards away from Isaac.\nmain.js:490 • +0.3 Speed Up.\nmain.js:490 • Player Size Down.\nmain.js:490 • Gives you a random pill when picked up.\nmain.js:490 • An item only found in the boss room pool.\nmain.js:490 • A familiar eye that bounces around the room slowly and fires tears in the same direction as Isaac.\nmain.js:490 • Cain's Other Eye deals 3.5 damage per tear (The same as Isaac's base damage).\nmain.js:490 • +3 Soul Hearts\nmain.js:490 • After getting hit once, you gain a damage reduction for the rest of the room similar to The Wafer item (-50% damage taken).\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • A spacebar item which allows Isaac to fire a blue flame that damages anything in its path for 23 damage per tick.\nmain.js:490 • Can cause up to a total of 184 potential damage.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +0.5 Damage Up.\nmain.js:490 • -1 Tear Delay (Tears Up).\nmain.js:490 • +0.1 Speed Up.\nmain.js:490 • +1.5 Range Up.\nmain.js:490 • +1 Key, +1 Bomb, +1 Coin.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • +1.0 Damage Up.\nmain.js:490 • +0.23 Shot Speed Up.\nmain.js:490 • An item only found in the Boss room pool.\nmain.js:490 • Upon taking damage, you have a chance to gain an invulnerability shield for a few seconds.\nmain.js:490 • The chance to gain a shield is affected by your luck stat and at +27 Luck it will activate every time.\nmain.js:490 • +3 Black Hearts.\nmain.js:490 • +1 Damage Up.\nmain.js:490 • When depleted, Black Hearts deal 40 damage to the entire room, in a Necronomicon style effect.\nmain.js:490 • +1.0 Damage Up.\nmain.js:490 • Increases the chance of champion enemies appearing.\nmain.js:490 • An item only found in the Shop room pool.\nmain.js:490 • Heals half a heart after every 13 enemies killed.\nmain.js:490 • +2 Damage Up for tears fired from Isaac's left eye.\nmain.js:490 • If you have an item which modifies which eye you fire tears from, each shot has a 50% chance to do +2 Damage.\nmain.js:490 • Isaac can now charge shots for more damage by holding down the fire button.\nmain.js:490 • At full charge, your tears do 4 times more damage.\nmain.js:490 • Tears fired at the minimum possible charge do roughly 1/3 of your normal damage.\nmain.js:490 • Tears up - Spamming the fire button allows for rapid fire shots at normal damage.\nmain.js:490 • Tears now have a random chance to apply a poison effect, causing 4 or 6 damage per tick to enemies.\nmain.js:490 • The chance to fire poison shots is affected by your luck stat and at +12 Luck it will activate every time.\nmain.js:490 • Gives a big increase in damage to Dr. Fetus bombs.\nmain.js:490 • Shows all icons on the map (e.g. Shop)\nmain.js:490 • Does not show the layout of the map.\nmain.js:490 • Room icons will not show if a curse of the blind is in effect on the current floor.\nmain.js:490 • Doubles your pickup drops including chests, soul hearts and all other consumables which spawn at the end of a room.\nmain.js:490 • Higher chance for 'double trouble' rooms (2 bosses at once).\nmain.js:490 • When used, converts 2 soul or black hearts into 1 red heart container.\nmain.js:490 • This item will take from your soul hearts first.\nmain.js:490 • Creates 5 beams of light at random locations in the room, dealing 20 damage to any enemies which come into contact with them.\nmain.js:490 • The beams tend to favour spawning in the middle of the room but also have a chance to spawn infront of an enemy.\nmain.js:490 • -1 Tear Delay (Tears Up).\nmain.js:490 • -10.0 Range Down.\nmain.js:490 • Makes tears break into 4 smaller tears on impact with anything which deal half of your damage.\nmain.js:490 • +0.5 Damage Up\nmain.js:490 • +50% / 1.5 times Damage Multiplier (Does not stack with the Magic Mushroom multipier).\nmain.js:490 • Tears now have a significant knockback effect (Does not increase the shot speed stat).\nmain.js:490 • Can be found in golden chests.\nmain.js:490 • Cricket's Head used to be known as 'Max's Head in the original game and was renamed for Rebirth.\nmain.js:490 • Upon use, reveals the entire map and gives the player a random tarot card, mystic rune or soul heart.\nmain.js:490 • Has a chance to drop from playing a fortune machine.\nmain.js:490 • An orbital which blocks shots and damages enemies it comes into contact with for 7 damage per tick.\nmain.js:490 • Exclusively drops from one of the horsemen bosses.\nmain.js:490 • 2 cubes of meat transform the orbital into a meat head which fires blood tears which deal 3.5 damage each.\nmain.js:490 • 3 cubes of meat transform it into a meat boy familiar that walks around and deals 3.5 contact damage per tick to enemies.\nmain.js:490 • 4 cubes of meat cause the meat boy familiar to grow in size and do 5.5 damage per tick instead.\nmain.js:490 • Any further cubes of meat past 4 will start the cycle again.\nmain.js:490 • Isaac's tears now have a piercing effect which allows them to travel through enemies whilst damaging them.\nmain.js:490 • Tears are now charged up and fired rapidly in a burst of up to 4 shots at once.\nmain.js:490 • The amount of tears fired in the charge depends on how long you charge for.\nmain.js:490 • The eye has three states, white (not firing), black (first second of charging) and blinking between black and white. If you get hit while Cursed eye is a solid black colour you are guaranteed to be teleported to another random room on the floor. If you get hit in either of the other 2 states you will not be teleported.\nmain.js:490 • When used, the D4 re-rolls each item you currently have into another random item from the item room pool.\nmain.js:490 • Each time an item is generated by the D4, it is also removed from the pool. When the pool is empty, it will eventually re-roll all your items into heart containers.\nmain.js:490 • Cannot remove Azazel's Brimstone laser.\nmain.js:490 • When used, rerolls all enemies in the room which are currently alive into another random type of enemy from any floor.\nmain.js:490 • Dangerous to use in early floors, it could replace a basement enemy with something usually found in the Womb only.\nmain.js:490 • Cannot reroll mini-bosses or bosses.\nmain.js:490 • When used, rerolls each item you currently own into another item room pool item and any pedestal items and pickups in the room.\nmain.js:490 • Has the combined uses of the D4, D6 and D20.\nmain.js:490 • Upon use, re-rolls all pickup consumables in the current room into another random kind of pickup.\nmain.js:490 • This includes hearts, bombs, keys, coins, pills, tarot cards, chests and trinkets.\nmain.js:490 • Upon use, any pedestal item (e.g. an item room item) will be re-rolled into another item.\nmain.js:490 • Upon use, opens all closed doors in the current room, including the ones which require a key to enter and secret room doors.\nmain.js:490 • Can be used to open the golden door that appears in the Dark Room or the Chest.\nmain.js:490 • A shadow follows Isaac and stomps on enemies randomly, dealing 40 damage per stomp (2 damage ticks at 20 damage each).\nmain.js:490 • A familiar beggar similar to Bum Friend that follows Isaac and collects red hearts, giving Isaac soul hearts or spiders in return.\nmain.js:490 • Soul hearts are the most common payout with only a small chance to spawn friendly or hostile spiders.\nmain.js:490 • Dark Bum has a small chance to give a black heart instead of a soul heart.\nmain.js:490 • For every 1.5 red hearts he takes, he will give 1 heart/spider in return.\nmain.js:490 • Tears now have a chance to apply the fear effect to enemies, which causes them to run away from Isaac.\nmain.js:490 • +1.0 Damage Up.\nmain.js:490 • Reduced tear size.\nmain.js:490 • The chance to fear enemies is affected by your luck stat and at +20 Luck it will activate every time.\nmain.js:490 • An item only found in the devil room pool (Note: The Fallen boss pulls items from the Devil Room Pool)\nmain.js:490 • When Isaac takes damage, the dead bird will spawn and attack nearby enemies in the current room for 2 damage per tick.\nmain.js:490 • Eve starts with this item.\nmain.js:490 • Isaac's health is set to 1 but he also gets 8 extra lives.\nmain.js:490 • Each time Isaac dies, he will respawn with 1 Health.\nmain.js:490 • Has a chance to drop from the Super Pride mini boss.\nmain.js:490 • The floating Dead Cat head that follows you will disappear when you are on your last life (Very useful for The Lost)\nmain.js:490 • This is one of the items which allows you to transform into Guppy.\nmain.js:490 • Has a chance to drop from the Super Pride miniboss fight.\nmain.js:490 • Gives Isaac the ability to fly and spectral tears.\nmain.js:490 • An item only found in the Angel room.\nmain.js:490 • Isaac's tears become large, brown and will penetrate all objects and enemies (piercing + spectral).\nmain.js:490 • -0.25 Range Down.\nmain.js:490 • -0.4 Shot Speed Down.\nmain.js:490 • -0.5 Tear Height.\nmain.js:490 • Despite the increase in tear size, Dead Onion does NOT increase your damage stat.\nmain.js:490 • Upon use, the dead sea scrolls gives a random spacebar item effect.\nmain.js:490 • An item that can be found in the Angel room.\nmain.js:490 • +1.5 Damage Up.\nmain.js:490 • -0.3 Tears Down.\nmain.js:490 • Isaac's tears turn into large scythes that penetrate through enemies (Similar to how Death's scythes look).\nmain.js:490 • Gives Isaac a random tarot card on use.\nmain.js:490 • A familiar which follows Isaac and automatically fires tears that deal 3 damage each at any enemies in close range.\n2main.js:490 • +1 Health Up.\nmain.js:490 • Gives Isaac an orbiting fly which deals 5 contact damage to enemies per tick.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • A target is placed on the floor which can be controlled. After a few seconds a huge missile hits the target and deals 70 damage to anything nearby.\nmain.js:490 • The damage dealt from this item scales with your damage stat.\nmain.js:490 • Essentially a one-time more powerful use of the Epic Fetus item.\nmain.js:490 • +99 coins.\nmain.js:490 • Can drop from an exploding slot machine while playing it.\nmain.js:490 • Instead of tears, Isaac now shoots bombs from his eyes, which explode dealing damage to anything nearby.\nmain.js:490 • Bomb damage = damage * 3.\nmain.js:490 • Tears Down (Tear delay * 2.5).\nmain.js:490 • Poison effects (e.g. Bob's Curse) give Dr. Fetus bombs a flat +50 damage.\nmain.js:490 • Bombs will also synergize with other bomb items and tear modifiers (not including Sad Bombs).\nmain.js:490 • A familiar that follows Isaac and blocks any shots that hit it.\nmain.js:490 • If a projectile is blocked by Dry Baby, he has a high chance to activate the Necronomicon effect, dealing 40 damage to the entire room.\nmain.js:490 • The chance to activate the effect is not changed by your Luck stat.\nmain.js:490 • Can drop while destroying skulls in the Depths and Necropolis floors.\nmain.js:490 • E. Coli turns normal enemies into poop if they touch you.\nmain.js:490 • Enemies can turn into poop even if they do not do contact damage, allowing you to apply the effect without taking damage.\nmain.js:490 • Can be combined with Midas Touch to turn enemies into Golden Poop.\nmain.js:490 • This does not work on mini-bosses and bosses.\nmain.js:490 • Tears now become missiles which deal huge damage to anything nearby.\nmain.js:490 • Missiles damage = damage * 20.\nmain.js:490 • This item places a controllable red target on the ground which will cause a missile to fall from the sky and hit it after a short period of time.\nmain.js:490 • x2 Damage Multiplier.\nmain.js:490 • Tears Down by exactly half (Tear delay * 2)\nmain.js:490 • -0.5 Shot Speed Down.\nmain.js:490 • The tears down from this item is a x2.0 multiplier after the formula, meaning it will always halve your tear rate (Unless you have Monstro's Lung or Soy Milk).\nmain.js:490 • When picked up, this item will increase or decrease each one of your stats by a random amount.\nmain.js:490 • The flavour text for this item is slightly misleading, it is not an all stats up, however will average out as a slight increase overall.\nmain.js:490 • All 6 stats are affected by this item, including shot speed and luck.\nmain.js:490 • At least one stat is reduced but no more than 3 stats are reduced.\nmain.js:490 • Can kill Blue Baby if it removes health, but not other characters.\nmain.js:490 • When Isaac is hit, there is a chance he will drop a pickup (i.e. coin, bomb, key)\nmain.js:490 • Gives Isaac an eternal heart and the ability to fly.\nmain.js:490 • Taking an eternal heart to the next floor or collecting two on the same floor gives you an extra heart container.\nmain.js:490 • Isaac's tears now set enemies on fire, leaving a damage over time effect that does 4 or 6 damage per tick.\nmain.js:490 • There is a chance that tears that hit enemies will explode, leaving a small fire on the floor that damages enemies.\nmain.js:490 • Exploding tears deal damage * 2 + 22.\nmain.js:490 • The chance for tears to explode is affected by your luck stat and at +13 Luck it will activate every time.\nmain.js:490 • When used, turns every normal enemy in the room into poop!\nmain.js:490 • Does not work on mini-bosses and bosses.\nmain.js:490 • An orbiting fly which deals 2 contact damage per tick to enemies.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • Upon use, this item refreshes the current floor with brand new rooms, monsters and items.\nmain.js:490 • When used Isaac transforms into pacman, which makes him invincible and does 40 contact damage to enemies per chomp.\nmain.js:490 • Everytime you 'eat' an enemy, you regain some health.\nmain.js:490 • A familar that is attached to Isaac, which will seek out and damage any enemies close by for 3 contact damage.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • A familiar which follows Isaac and shoots spectral tears that deal 3.5 damage.\nmain.js:490 • Ghost Baby fires tears at a rate of 1 tear per second.\nmain.js:490 • Can drop while destroying skulls in the Depths and Necropolis floors.\nmain.js:490 • When getting hit, this item has a chance to drop a soul heart or black heart.\nmain.js:490 • When depleted, Black Hearts deal 40 damage to the entire room, in a Necronomicon style effect.\nmain.js:490 • The chance to spawn a heart is affected by your luck stat and at +22 Luck it will activate 50% of the time.\nmain.js:490 • Due to a bug, if you have more than 22 luck, Gimpy won't drop any Soul or Black hearts.\nmain.js:490 • Enemies have a chance to drop half a heart when killed.\nmain.js:490 • If Isaac stands still for a second, he turns to stone, making him invincible until he moves again.\nmain.js:490 • This item is a reference to the Tanuki suit in Super Mario 3.\nmain.js:490 • Gives Isaac a guaranteed devil or angel room on every floor they can appear, even if you have already beaten the boss and it didn't show up originally.\nmain.js:490 • Taking the Goat Head (or any other item) in a Devil Deal significantly lowers your chance for Angel Rooms in the future.\nmain.js:490 • Isaac's tears become homing and have a large aura around them, which will deal a lot of damage to anything inside its radius.\nmain.js:490 • +0.5 Damage Up.\nmain.js:490 • +1.2 Range Up.\nmain.js:490 • -0.3 Tears Down.\nmain.js:490 • -0.3 Shot Speed Down\nmain.js:490 • +0.8 Tear Height.\nmain.js:490 • +1.0 Damage Up\nmain.js:490 • +0.4 Speed Up\nmain.js:490 • An orbital which does 7 contact damage per tick, blocks shots and increases the speed of all other orbitals.\nmain.js:490 • +1.0 Damage Up.\nmain.js:490 • -1 Tear Delay (Tears Up).\nmain.js:490 • Causes Isaac's head to detach and orbit his body, blocking shots and dealing 7 contact damage per tick.\nmain.js:490 • BFFs will cause the Guillotine head to do double damage (14 damage per tick)\nmain.js:490 • Tears are still fired from Isaac's head but the hitbox remains around his body.\nmain.js:490 • When Isaac dies, he has a 50% chance to respawn with 1/2 a heart.\nmain.js:490 • This is one of the items which allows you to transform into Guppy.\nmain.js:490 • Follows behind Isaac and can be swung back and forth, dealing 3 contact damage per tick to anything it hits.\nmain.js:490 • Every time the hairball kills an enemy, it grows in size allowing it to deal more damage.\nmain.js:490 • This is one of the items which allows you to transform into Guppy.\nmain.js:490 • When used, spawns between 2-4 blue flies.\nmain.js:490 • This is one of the items which allows you to transform into Guppy.\nmain.js:490 • Blue Flies do 2.0x of Isaac's damage.\nmain.js:490 • When used, removes one heart container and gives you 3 soul hearts.\nmain.js:490 • This is one of the items which allows you to transform into Guppy.\nmain.js:490 • When picked up, greatly increases your chance of finding chests at the end of a room, while also reducing your chance to find consumables such as keys and bombs.\nmain.js:490 • This is one of the items which allows you to transform into Guppy.\nmain.js:490 • When you take damage, this item recharges one room's worth of charge to your spacebar item.\nmain.js:490 • For example, with the D6 you would need to take damage 6 times to fully recharge it.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +0.3 Damage Up.\nmain.js:490 • +0.2 Tears Up.\nmain.js:490 • +0.25 Range Up.\nmain.js:490 • +0.3 Speed Up.\nmain.js:490 • +0.5 Tear Height.\nmain.js:490 • Gives Isaac 2 orbital flies which block enemy shots.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • A familiar which follows Isaac and shoots two normal tears at once in a V-shaped pattern.\nmain.js:490 • Each of Harlequin Baby's tears deal 4 damage.\nmain.js:490 • Harlequin Baby fires tears at a rate of 1 tear per second.\nmain.js:490 • When used, fires a 4 way brimstone laser in all cardinal directions, dealing a lot of damage to any enemies.\nmain.js:490 • Maximum potential damage is 462 (20-21 ticks of 22 damage if the laser makes contact the whole duration)\nmain.js:490 • Laser damage does not scale with your damage stat.\nmain.js:490 • Has a chance to drop after you beat Krampus.\nmain.js:490 • If you get close enough to an enemy that has a large hitbox, you can hit it with 2 of the laser beams, allowing you to deal a lot more damage.\nmain.js:490 • A familiar that follows Isaac and leaves blood creep on the floor as it floats, hurting enemies that walk over it.\nmain.js:490 • Causes your friendly blue spiders and flies to become bigger and do 2x more damage.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • Allows Mom's Wig to spawn a maximum of 10 spiders at once instead of 5.\nmain.js:490 • +1 Health Up\nmain.js:490 • Gives Isaac the ability to fly.\nmain.js:490 • Each time you enter a new room, damage is negated for the first time you get hit.\nmain.js:490 • Can be used to go in and out of a Curse Room without taking damage.\nmain.js:490 • When Isaac takes damage, the bottle breaks and leaves a pool on the floor which deals 8 damage per tick to enemies which walk over it.\nmain.js:490 • +5 Bombs\nmain.js:490 • Gives all bombs a burning effect when they explode, leaving fire on the floor which deals 22 damage to enemies.\nmain.js:490 • When used, slows down all enemies in the current room and their projectiles for a short period of time.\nmain.js:490 • When used, makes Isaac leap in the air, similar to the leaper enemies.\nmain.js:490 • Maintains momentum if you are already moving in the same direction.\nmain.js:490 • If you already have an item which gives you flying, this item becomes a dash effect instead.\nmain.js:490 • Can be used in the Isaac boss fight to jump over the beams of light he spawns.\nmain.js:490 • All future pennies, keys, bombs and hearts will drop in pairs.\nmain.js:490 • Does not work for soul hearts, nickels, dimes, cards or pills.\nmain.js:490 • Puts a shield on Isaac's face making it so he has a high chance to not take damage to projectiles from any direction.\nmain.js:490 • When Isaac gets hit, a few blue flies will randomly spawn.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • Blue Flies do 2.0x of Isaac's damage.\nmain.js:490 • Creates 1-2 friendly spiders when you kill an enemy.\nmain.js:490 • Spiders are spawned at the location where the enemy died.\nmain.js:490 • Tears now shoot three at a time (Triple Shot)\nmain.js:490 • Tears Down significantly (tears = tears * 2.1 + 3).\nmain.js:490 • Isaac's tears are replaced with explosive poison bombs, which will arc upwards and explode on contact with the floor, dealing huge damage and leaving a poison effect on enemies in range.\nmain.js:490 • Ipecac shots are given a flat +40 Damage on top of the normal 3.5 base damage.\nmain.js:490 • Tears Down (Tear delay * 2 + 10).\nmain.js:490 • +13.0 Tear Height.\nmain.js:490 • Shots will damage Isaac if he is in the blast radius when they explode.\nmain.js:490 • +0.3 Damage Up.\nmain.js:490 • Tears now have a chance to concuss enemies, causing them to walk around dazed and confused for a short period of time.\nmain.js:490 • The chance to concuss enemies is affected by your luck stat and at +27 Luck it will activate every time.\nmain.js:490 • Prevents Isaac from taking any damage, but instead summons a familiar heart that follows you around. If the heart is hit, Isaac will take damage.\nmain.js:490 • Sharp Plug becomes useless with this item, due to how damage is prevented on Isaac's body.\nmain.js:490 • A spacebar item that fires 8 of Isaac's tears in a circle around him.\nmain.js:490 • Upon use, the IV Bag takes half a red heart and spawns some coins (the same effect as a blood donation machine)\nmain.js:490 • Can drop from a blood donation machine after playing it.\nmain.js:490 • Isaac can now pick up hearts while at full health, which will be stored in the Jar and can be spawned again using the spacebar.\nmain.js:490 • Up to 4 hearts can be stored in The Jar.\nmain.js:490 • Soul hearts and black hearts cannot be stored.\nmain.js:490 • If used in a Black heart or Eternal heart super secret room, it will spawn the relevant heart.\nmain.js:490 • +0.5 Damage Up.\nmain.js:490 • +0.25 Range Up.\nmain.js:490 • +0.5 Tear Height.\nmain.js:490 • When you die with this item, you respawn in the previous room as Black Judas with 2 black hearts for health.\nmain.js:490 • Black Judas has a damage multiplier of 2.00 (double Isaac's damage) and an additional +0.1 Speed.\nmain.js:490 • Black Judas is considered a separate character by the game, however he can be used to unlock Judas' secrets/achievements.\nmain.js:490 • A familiar that follows isaac around dropping white creep which slows down enemies that walk over it.\nmain.js:490 • Spawns a familiar blue spider sometimes when you finish a room.\nmain.js:490 • Blue Spiders do 2.5x of Isaac's damage.\nmain.js:490 • Causes an explosion near the player which takes away half a heart and does 40 damage all enemies in close proximity.\nmain.js:490 • Increases your chances to find an Angel Room instead of a Devil Room. See the dedicated Devil room page for more details.\nmain.js:490 • First half of the key required to enter the door to the Mega Satan boss.\nmain.js:490 • Drops from one of the angels which appear by bombing the statue in an angel room.\nmain.js:490 • Increases your chances to find an Angel Room instead of a Devil Room. See the dedicated Devil room page for more details.\nmain.js:490 • Second half of the key required to enter the door to the Mega Satan boss.\nmain.js:490 • Drops from one of the angels which appear by bombing the statue in an angel room.\nmain.js:490 • Allows Isaac to walk over gaps with a width of one tile.\nmain.js:490 • Gives Isaac an extra life on death, exactly the same as Lazarus' default respawn effect.\nmain.js:490 • When you die with this item, you respawn in the same room with 1 heart and the Anemic item.\nmain.js:490 • The game considers you to be a different character (Lazarus II) when this effect activates.\nmain.js:490 • Isaac gets a lion's mane and now has the ability to crush rocks by walking over them.\nmain.js:490 • Crushed rocks and poop can fill holes if you walk in their direction.\nmain.js:490 • Allows you to crush Red Poops and sometimes not take damage. However, If you also have flying you will always take damage.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • +1 Luck Up.\nmain.js:490 • +1 Soul Heart.\nmain.js:490 • Spawns 2 keys on the ground.\nmain.js:490 • Spawns a familiar leech on the ground that hunts down enemies and heals you for half a heart each time it eats one.\nmain.js:490 • The Leech deals 1.5 contact damage per tick.\nmain.js:490 • When used, drops a pool of 'lemonade' on the floor which damages any enemies that come into contact with it for 8 damage per tick.\nmain.js:490 • Gives you 6 keys, 6 bombs and 6 coins.\nmain.js:490 • Balances out your stats to bring the high and low stats closer to an average value.\nmain.js:490 • All future stat upgrading items will now instead spread out across all other stats. For example, an item which usually gives +1 Damage would instead give a small 'all stats up'.\nmain.js:490 • Stats effected by this item are: Damage, Tears, Range, Speed.\nmain.js:490 • When taken with another item which gives an extreme value in a certain stat (e.g. Soy Milk) can lead to interesting synergies.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • A familiar that follows Isaac and can fire up and charge brimstone shots, exactly how the normal Brimstone item works but with less damage.\nmain.js:490 • A fully charged laser deals 31.5 damage.\nmain.js:490 • A familiar found in the devil room.\nmain.js:490 • A familiar ghost that follows Isaac around and chases enemies close-by, damaging them for 2 contact damage and causing a fear effect.\nmain.js:490 • Allows for 2 pills to be held.\nmain.js:490 • Drops a pill on the floor when picked up.\nmain.js:490 • All future tarot card drops will now instead become pill drops.\nmain.js:490 • A familiar which follows Isaac and drops half a red heart every 3 rooms.\nmain.js:490 • A familiar that follows Isaac and charges forwards, dealing 3.5 damage per tick to any enemies it comes into contact with.\nmain.js:490 • A familiar that follows Isaac and fires black tar tears, which slow enemy movement and projectile speed for a few seconds.\nmain.js:490 • Little Gish's tears do 3.5 damage.\nmain.js:490 • Little Gish fires tears at a rate of 1 tear per second.\nmain.js:490 • A Guaranteed drop from the Gish boss fight.\nmain.js:490 • A familiar that follows Isaac and fires homing tears that deal 3.5 damage each.\nmain.js:490 • Has a high chance to drop from the Steven boss fight.\nmain.js:490 • Little Steven fires tears at a rate of 1 tear per second with a slightly longer range than other familiars.\nmain.js:490 • Everytime you fire a tear, there is a chance that you will also fire three more tears in all cardinal directions.\nmain.js:490 • The chance to fire 4-way tears is affected by your luck stat and at +7 Luck it will activate every time.\nmain.js:490 • Gives Isaac demon wings and the ability to fly.\nmain.js:490 • +0.3 Speed Up (Only applied after the speed stat is next updated).\nmain.js:490 • All of Isaac's tears now have a shield, allowing them to block an enemy projectile.\nmain.js:490 • If a tear blocks something, both Isaac's and the enemies tears are destroyed.\nmain.js:490 • -0.15 Shot Speed Down.\nmain.js:490 • +1.0 Luck Up.\nmain.js:490 • Better chance to win while gambling.\nmain.js:490 • Does not make all pills positive or neutral like the original game.\nmain.js:490 • You no longer shoot tears and instead now control a single large tear with the arrow keys.\nmain.js:490 • Items which increase your tears stat will cause the tear to deal damage at a faster rate.\nmain.js:490 • Items which increase your shot speed cause the tear to travel faster across the screen.\nmain.js:490 • Ludo and Brimstone create a large controllable red ring of death that does massive damage to anything in its path.\nmain.js:490 • Taking this with Mom's Knife allows you to remote control the knife around the room, dealing huge damage.\nmain.js:490 • Tears gain a damage up and increase in size based on the distance they travel.\nmain.js:490 • The length of a normal room roughly gives +6 damage, but this can be higher with double rooms or Tiny Planet.\n2main.js:490 • +1 Health Up.\nmain.js:490 • All future red hearts now heal for double. Half hearts heal a whole heart and full hearts heal 2 red hearts.\nmain.js:490 • +0.16 Shot Speed Up.\nmain.js:490 • Gives Isaac a random tarot card when picked up.\nmain.js:490 • Upon use, consumes a coin and deals damage to everything in the room.\nmain.js:490 • Damage dealt is equal to your tear damage * 2.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +0.3 Damage Up.\nmain.js:490 • +50% / 1.5 times Damage Multiplier (Does not stack with the multipliers from Cricket's Head / Blood of The Martyr+Book of Belial.\nmain.js:490 • +5.25 Range Up.\nmain.js:490 • +0.3 Speed Up.\nmain.js:490 • +0.5 Tear Height.\nmain.js:490 • Isaac grows in size.\nmain.js:490 • Similar to the original game, the Magic Mushroom does not give a tears up despite saying 'All Stats Up'.\nmain.js:490 • Fully restores all red heart containers.\nmain.js:490 • Can be dropped when exploding mushrooms in the Caves/Catacombs.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +1.0 Luck Up.\nmain.js:490 • Causes pickups on the floor move towards the player.\nmain.js:490 • +1.0 Damage Up.\nmain.js:490 • +0.2 Speed Up.\nmain.js:490 • +1 Soul Heart.\nmain.js:490 • +1 Black Heart\nmain.js:490 • +3 Bombs\nmain.js:490 • When depleted, Black Hearts deal 40 damage to the entire room, in a Necronomicon style effect.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +0.3 Damage Up.\nmain.js:490 • Isaac's touch now petrifies enemies, turning them to gold for a few seconds. \nmain.js:490 • If an enemy is killed while it is golden, it will drop between 1-4 coins.\nmain.js:490 • Contact damage is also dealt to enemies equal to the amount of coins Isaac is currently holding.\nmain.js:490 • Gives Isaac a full mapping effect, revealing the entire floor and locations of all secret rooms.\nmain.js:490 • +0.3 Speed Up\nmain.js:490 • Decreases range stat by -4.25 but increases your tear height by 1.5, increasing your actual tear range.\nmain.js:490 • Causes Isaac to shrink in size.\nmain.js:490 • Can be dropped when exploding mushrooms in the environment that are usually found in the Caves/Catacombs and in secret rooms.\nmain.js:490 • At the start of each floor this item rerolls all your current items, giving you a new item to over-ride each of the one you had.\nmain.js:490 • A reference to the infamous 'Missingno' glitch from Pokemon.\nmain.js:490 • +1 Black Heart.\nmain.js:490 • Upon taking damage, if the total sum of Isaac's red hearts + soul hearts is under one and a half hearts, the necronomicon effect will activate, dealing 40 damage to the entire room.\nmain.js:490 • When depleted, Black Hearts deal 40 damage to the entire room, in a Necronomicon style effect.\nmain.js:490 • Gives Isaac a much higher chance to find soul hearts\nmain.js:490 • When used, gives Isaac a random pill.\nmain.js:490 • When used, freezes all enemies in the current room temporarily.\nmain.js:490 • Drops 4 random pills on the floor around Isaac.\nmain.js:490 • Tears now have a random chance to freeze enemies in place.\nmain.js:490 • The chance to freeze enemies is affected by your luck stat.\nmain.js:490 • +0.25 Range Up. (Only applied after the range stat is next updated)\nmain.js:490 • +0.5 Tear Height. (Only applied after the height stat is next updated)\nmain.js:490 • Isaac has a random chance to fire another tear out the back of his head.\nmain.js:490 • The chance to fire the second tear can improve based on your luck stat and will always activate at +2 Luck.\nmain.js:490 • Synergizes very well with a lot of items. If used with Brimstone you have a 100% chance to fire a laser out the back of your head.\nmain.js:490 • Tears have a random chance to charm enemies.\nmain.js:490 • Charmed enemies will prioritize attacking other enemies in the room, otherwise they will still attack Isaac.\nmain.js:490 • The chance to charm enemies is affected by your luck stat and at +27 Luck it will activate every time.\nmain.js:490 • +5.25 Range Up\nmain.js:490 • +0.5 Tear Height.\nmain.js:490 • +2 Keys\nmain.js:490 • Higher chance to get more consumable drops from chests.\nmain.js:490 • Tears are replaced with a knife which can be charged and thrown in a boomerang style action.\nmain.js:490 • The knife can also do damage without being thrown as a close range melee weapon.\nmain.js:490 • When used as a melee weapon, Mom's Knife deals your tear damage * 2 per tick.\nmain.js:490 • +5.25 Range Up\nmain.js:490 • +0.5 Tear Height.\nmain.js:490 • When used, causes all enemies in the current room to run away from Isaac in fear for a few seconds.\nmain.js:490 • -1 Tear Delay (Tears Up).\nmain.js:490 • Isaac's tears have a 15% chance of causing a fear effect.\nmain.js:490 • Feared enemies will run away from Isaac temporarily.\nmain.js:490 • The chance to fear enemies is affected by your luck stat and at +85 Luck it will activate every time.\nmain.js:490 • Isaac can now hold two trinkets at the same time\nmain.js:490 • Allows you to pick up more trinkets while also holding The Tick\nmain.js:490 • Isaac now has a chance to create friendly attack spiders everytime he fires a tear.\nmain.js:490 • Can create up to a maximum of 5 spiders in the room at one time.\nmain.js:490 • The Hive Mind item allows Mom's Wig to spawn a maximum of 10 spiders at once instead of 5.\nmain.js:490 • The chance to create a spider is affected by your luck stat and at +10 Luck it will activate every time.\nmain.js:490 • Heals you for 1 red heart when picked up.\nmain.js:490 • +5.25 Range Up\nmain.js:490 • +0.5 Tear Height.\nmain.js:490 • +0.04 Damage Up for every coin you currently have.\nmain.js:490 • At 99 coins this item gives +3.96 Damage Up.\nmain.js:490 • A familiar that will follow Isaac and copy the effect of one of your other familiars.\nmain.js:490 • If you don't have any other familiars, he will just shoot normal tears.\nmain.js:490 • When used, gives a random familiar for the rest of the room.\nmain.js:490 • Tears can now be charged and released in a shotgun style effect, much like Monstro's main attack.\nmain.js:490 • When used, spawns a Monstro which will jump on a random enemy in the room, dealing 120 damage.\nmain.js:490 • Drops a large bomb below the player which does 110 damage.\nmain.js:490 • Has a chance to drop from the Wrath miniboss fight.\nmain.js:490 • +5 Bombs\nmain.js:490 • Bombs now do 110 damage (+60, up from 50) and have a larger blast radius.\nmain.js:490 • Can be found in the secret room.\nmain.js:490 • Has a chance to drop from the Super Wrath miniboss fight.\nmain.js:490 • Isaac has a 1/6 chance to spawn a blue fly when one of his tears hits an enemy.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • Blue Flies do 2.0x of Isaac's damage.\nmain.js:490 • The chance to activate this effect is not changed with your Luck stat.\nmain.js:490 • Tears now shoot 4 at a time (Quad Shot)\nmain.js:490 • Tears Down significantly (Tear delay * 2.1 + 3).\nmain.js:490 • Gives Isaac temporary invincibility and allows him to do 40 contact damage to enemies per hit.\nmain.js:490 • Gives tears a boomerang effect.\nmain.js:490 • +1.5 Range Up.\nmain.js:490 • +0.6 Shot Speed Up.\nmain.js:490 • +1 Tear Height.\nmain.js:490 • When Isaac's tears hit anything, they leave a green toxic creep on the floor that damages enemies.\nmain.js:490 • A bag that follows Isaac and drops a random pickup every few rooms (Fixed in patch v1.04).\nmain.js:490 • Can drop any kind of heart, coin, bomb or key.\nmain.js:490 • +0.7 Damage Up.\nmain.js:490 • -0.18 Speed Down.\nmain.js:490 • +1 Soul Heart\nmain.js:490 • Gives you the ability to crush rocks by walking over them.\nmain.js:490 • All the above effects are only active when the item is used.\nmain.js:490 • Deals 40 damage to everything in the room when used.\nmain.js:490 • Damages all enemies in the room for 40 damage when hit down to 1/2 heart remaining.\nmain.js:490 • Gives you access to the Dark Room floor.\nmain.js:490 • When unlocked, is guaranteed to drop after the Mom's Foot boss fight.\nmain.js:490 • Each charge of this item allows Isaac to break all rocks, pots and secret room doors in the current room.\nmain.js:490 • Cannot break the stone blocks which appear in the environment.\nmain.js:490 • If Isaac is damaged while the effect is active, it will deactivate.\nmain.js:490 • Gives you a very high tear rate in exchange for a big range down.\nmain.js:490 • +1.5 Tears Up.\nmain.js:490 • -15.78 Range Down.\nmain.js:490 • +0.45 Tear Height.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +0.3 Damage Up.\nmain.js:490 • +0.25 Range Up.\nmain.js:490 • -0.1 Speed Down.\nmain.js:490 • +0.5 Tear Height.\nmain.js:490 • Gives you a high rate of fire in exchange for a damage down.\nmain.js:490 • +1.7 Tears Up.\nmain.js:490 • +0.3 Speed Up.\nmain.js:490 • Damage Down (damage * 0.9 - 0.4).\nmain.js:490 • +1 Health Up.\nmain.js:490 • The given heart container is empty.\nmain.js:490 • When you get hit, you will sometimes cause hearts to drop on the floor.\nmain.js:490 • Gives Isaac spectral tears which allows them to travel through objects in the environment (i.e. rocks).\nmain.js:490 • +0.5 Damage Up.\nmain.js:490 • +0.7 Tears Up.\nmain.js:490 • +2 Soul Hearts.\nmain.js:490 • Spawns 7 random coins around Isaac on the floor.\nmain.js:490 • Isaac wears a pink crown on his head.\nmain.js:490 • When used, this item will spawn a set of items or consumables based on which floor you are currently on.\nmain.js:490 • Basement 1: 2 Soul hearts. Basement 2: 2 Bombs + 2 Keys.\nmain.js:490 • Caves 1: 1 Boss Item. Caves 2: 1 Boss Item + 2 Soul Hearts.\nmain.js:490 • Depths 1: 4 Soul hearts. Depths 2: 20 coins.\nmain.js:490 • Womb 1: 2 Boss Items. Womb 2: Bible.\nmain.js:490 • Sheol: 1 Devil Room Item + 1 Black Heart. Cathedral: 1 Angel Room Item + 1 Eternal Heart.\nmain.js:490 • Chest: 1 coin. Dark Room: Nothing!\nmain.js:490 • Pandora's Box considers XL floors to always be the first floor of a chapter.\nmain.js:490 • This item disappears when used (One time use).\nmain.js:490 • Isaac's tears now split into two upon contact with enemies or the environment.\nmain.js:490 • Tears that split off from the main tear do less damage (tear damage * 0.25).\nmain.js:490 • Gives Isaac an eye companion that floats around the room and deals 8 damage per tick on contact with enemies.\nmain.js:490 • +1.0 Damage Up.\nmain.js:490 • Higher chance of a Devil Deal opening after the boss fight (Approximately +20% through testing).\nmain.js:490 • All pills now have a positive or neutral effect.\nmain.js:490 • Pills are identified before using them.\nmain.js:490 • Drops one pill on pickup.\nmain.js:490 • Heals for 2 full red hearts.\nmain.js:490 • +3 Coins when picked up.\nmain.js:490 • When you take damage, 1 or 2 coins will drop on the floor.\nmain.js:490 • -1 Tear Delay (Tears Up).\nmain.js:490 • Tears now have a knockback effect, which pushes enemies backwards.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • +1 Health Up.\nmain.js:490 • Gives the player health regeneration over time.\nmain.js:490 • Cuts Isaac's head from his body for the current room, allowing him to fly and leaving the decapitated body to run around attacking enemies for 5.5 damage per tick.\nmain.js:490 • Gives Isaac an invincibility shield for a few seconds when hit down to 1/2 heart remaining.\nmain.js:490 • Gives you access to the Chest floor.\nmain.js:490 • When unlocked, is guaranteed to drop after the Mom's Foot boss fight.\nmain.js:490 • High Damage Up - 2 * (damage + 4).\nmain.js:490 • Tears Down significantly (Tear delay * 2.1 + 3).\nmain.js:490 • If a tear kills an enemy, it continues to travel forward with the leftover damage.\nmain.js:490 • Allows Isaac to fly while the Pony is held.\nmain.js:490 • Sets your speed stat to 1.5 if it isn't already that high.\nmain.js:490 • When the active attack is used, Isaac will dash across the screen dealing 40 contact damage to anything he hits.\nmain.js:490 • Drops from the Headless Horseman boss fight.\nmain.js:490 • Drops a poop on the floor.\nmain.js:490 • Blue Baby starts with this item.\nmain.js:490 • Can be placed next to a pit and exploded to make a bridge.\nmain.js:490 • Can be placed over a broken red poop to overwrite it, causing it to no longer regenerate.\nmain.js:490 • Using the portable slot takes a coin and has a chance to give a pickup - Exactly the same as how the normal slot machines work.\nmain.js:490 • Gives Isaac an eternal heart when used.\nmain.js:490 • Taking an eternal heart to the next floor or collecting two on the same floor gives you an extra heart container.\nmain.js:490 • Gives Isaac high damage tears with a short range.\nmain.js:490 • Tear size and damage falls off very fast with this item, the further the tear travels the less damage it does.\nmain.js:490 • Tear damage starts at double (+100%) and decreases over range to roughly (+30%).\nmain.js:490 • Despite the very small tears visually, Proptosis is always a damage up at any range.\nmain.js:490 • Spawns a friendly Mulligan that walks around the room. Mulligan can be hit by enemy projectiles, making him a good shield.\nmain.js:490 • Enemies will sometimes target the Mulligan if he is closer.\nmain.js:490 • +99 Bombs.\nmain.js:490 • +5 Bombs\nmain.js:490 • All explosions now heal Isaac for 1 heart instead of hurting him.\nmain.js:490 • Isaac will also be healed by other sources such as Mom's leg stomp, Satan's leg stomp.\nmain.js:490 • +25 Coins\nmain.js:490 • Has a very small chance to drop after destroying one of the pots that appear in the Basement and Cellar floors.\nmain.js:490 • Has a chance to drop from the Super Greed miniboss fight.\nmain.js:490 • A familiar the follows Isaac and fires random tears.\nmain.js:490 • Rainbow Baby's tears can choose from any of the other familiars, such as homing, spectral, tar shots etc.\nmain.js:490 • +2 Health Up.\nmain.js:490 • Full red heart heal.\nmain.js:490 • When used, deals damage to Isaac in exchange for +1.2 damage up which lasts for the current room.\nmain.js:490 • Allows you to fire a red flame infront of you, similar to the Blue Candle item, however the flame will stay for the current room.\nmain.js:490 • Each flame deals 125 total damage.\nmain.js:490 • The flame will shrink in size when deals damage to something and eventually disappear.\nmain.js:490 • A blue cross that follows Isaac and drops a soul heart every 4 rooms.\nmain.js:490 • +5 Bombs.\nmain.js:490 • Bombs no longer automatically explode and will only do so when you activate the remote detonator.\nmain.js:490 • Can be used to detonate Dr. Fetus bombs early.\nmain.js:490 • A familiar which follows Isaac and shoots lasers, similar to the Technology item.\nmain.js:490 • Robo-Baby's laser is spectral and piercing (It will pass through rocks and objects in the environment)\nmain.js:490 • Robo-Baby's lasers deal 3.5 damage per hit.\nmain.js:490 • A familiar that is controlled via the arrow keys and will automatically fire a laser if anything is in its line of sight.\nmain.js:490 • Robo-Baby 2.0's lasers deal 3.5 damage per hit.\nmain.js:490 • +0.6 Speed Up.\nmain.js:490 • +5.25 Range Up.\nmain.js:490 • +0.5 Shot Height.\nmain.js:490 • +3 Soul Hearts.\nmain.js:490 • Adds several instances of The Bible item into the Boss Room, Shop, Beggar, Secret Room, Gold Chest and Devil Pools.\nmain.js:490 • A familiar which follows Isaac and spawns a blue flies.\nmain.js:490 • Rotten Baby can only create one fly at a time, meaning if he has created a fly he cannot make another until it is used.\nmain.js:490 • Blue Flies do 2.0x of Isaac's damage.\nmain.js:490 • The Hive Mind item will cause Rotten Baby's flies to deal double damage.\nmain.js:490 • +1 Health Up\nmain.js:490 • Isaac's tears now bounce off walls and objects in the environment, such as rocks and pots.\nmain.js:490 • Allows tears to hit the same enemy multiple times.\nmain.js:490 • If you also have Lost Contact, tears will bounce off enemy projectiles instead of being destroyed.\nmain.js:490 • A bag that floats around following Isaac and drops a random coin every 2 rooms.\nmain.js:490 • Tears are now white, do a lot more damage and move slower across the screen with a homing effect.\nmain.js:490 • Health Up.\nmain.js:490 • Damage Up (damage * 2.3 + 1).\nmain.js:490 • -0.4 Tears Down.\nmain.js:490 • -0.25 Shot Speed Down.\nmain.js:490 • +0.375 Range Up.\nmain.js:490 • +0.75 Tear Height.\nmain.js:490 • Full red heart heal.\nmain.js:490 • Gives Isaac an orbital knife that does 15 damage per tick on contact with enemies.\nmain.js:490 • The Sacrificial Dagger DOES block shots in Rebirth, unlike the original game.\nmain.js:490 • Synergises very well with invulnerability items such as Book of Shadows.\nmain.js:490 • +5 Bombs\nmain.js:490 • Everytime a bomb explodes, it will release a circle of tears outwards, much like the Tammy's Head effect.\nmain.js:490 • The tears from each bomb are affected by any tear modifiers Isaac has on his own tears.\nmain.js:490 • The tears caused by Sad Bombs are much larger and do a lot more damage than Isaac's normal tears.\nmain.js:490 • +0.7 Tears Up\nmain.js:490 • +5.25 Range Up.\nmain.js:490 • +0.16 Shot Speed Up.\nmain.js:490 • +1 Black Heart.\nmain.js:490 • +0.5 Tear Height.\nmain.js:490 • When depleted, Black Hearts deal 40 damage to the entire room, in a Necronomicon style effect.\nmain.js:490 • +0.2 Speed Up.\nmain.js:490 • Tears now turn into arrow heads and pierce through enemies.\nmain.js:490 • Tears do not travel through rocks with this item.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • An iron ball and chain attached to Isaac, similar to Guppy's Hairball that you can fling around to deal 5 damage per tick.\nmain.js:490 • The ball will block enemy shots and can also destroy environmental objects such as rocks, mushrooms and skulls.\nmain.js:490 • Does not decrease your movement speed stat at all however the ball has to be dragged around causing Isaac to slow down slightly when the chain is fully extended.\nmain.js:490 • When used, gives Isaac +1 Black Heart.\nmain.js:490 • When depleted, Black Hearts deal 40 damage to the entire room, in a Necronomicon style effect.\nmain.js:490 • Once per room when you are damaged down to half a heart, you gain 1 soul heart.\nmain.js:490 • Similar to the Pinking Shears, when used will cut your head from your body, however this item allows you to control Isaac's body.\nmain.js:490 • Isaac's detached head will remain stationary and shoot tears in the direction you are firing.\nmain.js:490 • Isaac's tears turn bright green and always apply a poison effect to enemies which deals 4 or 6 damage per tick.\nmain.js:490 • This is essentially a superior version of The Common Cold item.\nmain.js:490 • Gives Dr. Fetus bombs a big increase in damage.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • +0.5 Tears Up\nmain.js:490 • +0.2 Shot Speed Up\nmain.js:490 • When your spacebar item is out of charge, you can press spacebar to use it at the cost of 2 health.\nmain.js:490 • This item only costs 1/2 a heart to use if you have The Wafer or the Cancer item.\nmain.js:490 • The Sharp Plug will take health from Soul/Black hearts (if any) before taking red hearts.\nmain.js:490 • When used, fires a high damage laser in a straight line across the room in a similar way to Brimstone.\nmain.js:490 • Laser damage is based on your damage stat. One full laser deals your tear damage * 7 (Almost half as much as one Brimstone laser).\nmain.js:490 • Has a chance to drop from the Envy and Super Envy miniboss fights.\nmain.js:490 • An adorable friendly blue spider that walks around the room laying other blue spiders which attack enemies.\nmain.js:490 • Blue Spiders do 2.5x of Isaac's damage.\nmain.js:490 • She can only spawn a maximum of up to 5 spiders at a time and will only do so while there are enemies in the room.\nmain.js:490 • A familiar which follows Isaac around and shoots blood tears that deal 3.5 damage.\nmain.js:490 • The tears appear red but have no additional damage.\nmain.js:490 • Sister Maggy fires tears at a rate of 1 tear per second.\nmain.js:490 • All fly enemies are no longer aggressive towards Isaac.\nmain.js:490 • Is only available from the shell game in the arcade.\nmain.js:490 • Can be won from the arcade skull game.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • +99 Keys\nmain.js:490 • +1.0 Damage Up.\nmain.js:490 • +0.2 Tears Up. (Only applied after the tears stat is next updated)\nmain.js:490 • -0.2 Speed Down. (Only applied after the speed stat is next updated)\nmain.js:490 • Has a chance to drop when exploding a tinted rock.\nmain.js:490 • A yellow orbital fly that will block shots and when Isaac gets hit, will seek out the nearest enemy and attack it.\nmain.js:490 • If the fly is in its attacking state and there are no longer any enemies in range, it will return to Isaac and go back to being a defensive orbital.\nmain.js:490 • Picking up this item as well as 2 other fly-type items will allow you to transform into Lord of the Flies.\nmain.js:490 • Isaac turns red like Meatboy.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +0.3 Damage Up.\nmain.js:490 • +0.2 Tears Up.\nmain.js:490 • +0.5 Range Up.\nmain.js:490 • +0.2 Speed Up.\nmain.js:490 • +1.0 Tear Height.\nmain.js:490 • Full red heart heal.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +2 Soul Hearts.\nmain.js:490 • Enemy projectiles will now slowly curve away from Isaac and avoid hitting him.\nmain.js:490 • Very high Tears Up: (delay /4) - 2\nmain.js:490 • -80% Damage Down.\nmain.js:490 • +0.3 Speed Up.\nmain.js:490 • +0.2 Shot Speed Up.\nmain.js:490 • Reveals the location of the Secret room, playing a jingle when it is shown.\nmain.js:490 • Upon use, does 10 damage to all enemies in the room and gives them a slowing effect.\nmain.js:490 • Tears now have a chance of slowing enemies and their projectiles for 2.5 seconds.\nmain.js:490 • The chance to slow enemies is affected by your luck stat and at +15 Luck it will activate every time.\nmain.js:490 • Creates friendly attack spiders when Isaac is damaged.\nmain.js:490 • Gives Isaac the ability to fly and spectral tears.\nmain.js:490 • Gives Isaac's tears a homing effect.\nmain.js:490 • +2 Soul Hearts.\nmain.js:490 • +0.4 Tears Up.\nmain.js:490 • Isaac can now hold 2 tarot cards at once.\nmain.js:490 • All future pill drops (including Mom's Coin Purse) will now instead become Tarot card drops.\nmain.js:490 • An item only available in the Shop room.\nmain.js:490 • Items in the shop are now -50% off, rounded down to the nearest whole number.\nmain.js:490 • Has a chance to drop from the Greed miniboss fight or when bombing the shopkeeper.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +0.16 Shot Speed Up.\nmain.js:490 • +1 Damage Up.\nmain.js:490 • Has a small chance to drop from the Steven boss fight.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +0.3 Damage Up.\nmain.js:490 • +0.3 Speed Up.\nmain.js:490 • Gives a permanent slowing effect to all enemies in the room and their projectiles.\nmain.js:490 • The slowing effect has a reduced effect against Brimstone lasers fired by enemies.\nmain.js:490 • Enemies and pickups (keys, bombs etc.) are now magnetically attracted to Isaac's tears.\nmain.js:490 • Can cause some enemies to have unpredictable movement.\nmain.js:490 • +1 Health Up.\nmain.js:490 • +2 Soul Hearts\nmain.js:490 • +1.0 Damage Up.\nmain.js:490 • +5.25 Range Up.\nmain.js:490 • +0.5 Tear Height.\nmain.js:490 • Fires 10 tears in a circle around Isaac.\nmain.js:490 • Each tear is equal to your damage stat + 25 flat damage.\nmain.js:490 • The tears spawned from Tammy's Head retain special effects of Isaac's tears, such as poison or homing.\nmain.js:490 • Synergizes extremely well with Brimstone due to how the damage from both items is calculated when combined.\nmain.js:490 • -0.3 Speed Down.\nmain.js:490 • While in a hostile room your speed raises at a rate of +0.065 per second.\nmain.js:490 • When you hit a speed stat of 2.0, Isaac will gain the My Little Unicorn invincibility effect for a few seconds, increasing speed and allowing him to run into enemies to deal 40 contact damage per hit.\nmain.js:490 • The time it takes for the effect to activate becomes shorter with a higher base Speed stat.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • Gives Isaac a laser which is positioned in the centre of his head and will fire at random intervals while firing tears.\nmain.js:490 • Each laser does damage equal to your current tear damage.\nmain.js:490 • The laser will occasionally fire with one of these effects: Hook Worm, Spoon Bender or Tiny Planet.\nmain.js:490 • Luck has no effect on the rate at which Tech.5 fires and does not scale with items that increase your tears stat.\nmain.js:490 • Isaac's tears are replaced with a laser that has unlimited range and can only fire at right angles.\nmain.js:490 • Lasers travel through enemies but not obstacles in the room.\nmain.js:490 • Isaac now also has a laser with unlimited range which fires continuously and does damage very rapidly.\nmain.js:490 • -35% Damage Down (0.65 damage multiplier).\nmain.js:490 • When used, Isaac gains homing shots for the current room.\nmain.js:490 • Teleports Isaac to a random location on the map.\nmain.js:490 • Has a very small chance to teleport you to the I AM ERROR room.\nmain.js:490 • Two items now spawn after beating a boss fight and the boss rush, however only one can be taken and the other will disappear.\nmain.js:490 • The additional item will always pick from the Boss Item Pool.\nmain.js:490 • Appears in the shop item pool.\nmain.js:490 • Does nothing after the Krampus fight.\nmain.js:490 • Unlocked by donating to the donation machine in the shop.\nmain.js:490 • +1 Health Up.\nmain.js:490 • -0.4 Speed Down.\nmain.js:490 • You can now break obstacles by walking over them.\nmain.js:490 • Holes in the ground can be filled by crushing adjacent rocks, similar to how this can be done with bombs.\nmain.js:490 • Allows you to crush Red Poops and sometimes not take damage. However, If you also have flying you will always take damage.\nmain.js:490 • +7.0 Tear Height.\nmain.js:490 • Tears now revolve around Isaac's Body at a fixed distance until they hit the ground.\nmain.js:490 • Aiming in the opposite direction is often better due to how the tears circle around Isaac.\nmain.js:490 • Causes a lot of great synergies with items such as Lump of Coal, Brimstone, Rubber Cement, Technology and most of the worm trinkets.\nmain.js:490 • +0.7 Tears Up.\nmain.js:490 • +0.16 Shot Speed Up.\nmain.js:490 • Does not increase your damage, simply makes your tears red.\nmain.js:490 • +0.7 Tears Up.\nmain.js:490 • +0.16 Shot Speed Up.\nmain.js:490 • Isaac has a random chance to fire a tooth shot instead of a tear sometimes.\nmain.js:490 • Teeth shots deal damage equal to your tear damage * 3.2.\nmain.js:490 • The chance to fire a tooth is affected by your luck stat and at +9 Luck it will activate every time.\nmain.js:490 • Synergizes well with some tear modifiers such as Ipecac, which causes it to do massive damage.\nmain.js:490 • Gives Isaac the ability to fly.\nmain.js:490 • Reveals the entire map for every floor not including both secret room locations.\nmain.js:490 • Does not show the icons for any unknown rooms.\nmain.js:490 • Can still help you to guess which direction the boss room is in, due to the fact that the Boss Room is usually in the room furthest away from the starting room.\nmain.js:490 • Puts a shield in front of Isaac which blocks projectiles.\nmain.js:490 • The shield will rotate based on the direction in which Isaac is firing tears.\nmain.js:490 • Upon use, teleports you to one of the following rooms at random: Item room, Secret room, Super secret room, the I AM ERROR room or the Black Market (very low chance).\nmain.js:490 • Allows you to loop through and the final floor infinitely. If you can get Undefined to teleport you to an I AM ERROR room, there will be a beam of light that takes you back to a new Chest/Dark Room floor with the same layout and refreshed rooms.\nmain.js:490 • When used, turns Isaac invincible and gains +0.28 speed for a 5 seconds.\nmain.js:490 • You cannot fire tears while the stump is active.\nmain.js:490 • Very similar to the My Little Unicorn item but does not deal contact damage.\nmain.js:490 • When used with Mom's Knife, you can still deal contact damage but will be unable to change the way the knife faces while the effect is active.\nmain.js:490 • A random chance when you take damage to get an invincibility shield for a few seconds (Similar to the Celtic Cross effect but more likely).\nmain.js:490 • The chance to get an invincibility shield is affected by your luck stat and at +10 Luck it will activate every time you get hit.\nmain.js:490 • Converts all stat down pills into stat up pills. 'Bad Trip' turns into 'Balls of Steel' and 'Amnesia' turns into 'I can see forever'.\nmain.js:490 • One of the twelve zodiac items available in the game.\nmain.js:490 • Deals poison damage on contact with enemies (Damage over time 4 or 6 per tick).\nmain.js:490 • -0.1 Speed Down. (Cached: Only applied after the speed stat is next updated)\nmain.js:490 • Has a chance to drop from the Lust miniboss fight.\nmain.js:490 • All damage taken is reduced to half a heart.\nmain.js:490 • Damaged reduction is reduced from every source in the game except Devil Deals and health down pills.\nmain.js:490 • Does not prevent death (i.e. Suicide King or using The Bible on Isaac, ??? or Satan).\nmain.js:490 • The Wafer becomes most effective in the Womb and beyond where enemies all deal a whole heart of damage.\nmain.js:490 • The Wafer causes the Sharp Plug item to only cost 1/2 a heart per use.\nmain.js:490 • Spawns a trapdoor at Isaac's feet which allows him to travel to the next floor.\nmain.js:490 • The trapdoor has a 10% chance to become a Black Market.\nmain.js:490 • Has no effect in Sheol, Cathedral, Chest and Dark Room.\nmain.js:490 • Cannot spawn a trapdoor directly infront of a secret room entrance.\nmain.js:490 • Can destroy rocks if used when Isaac is flying over a rock.\nmain.js:490 • Allows Isaac to fly while the White Pony is held.\nmain.js:490 • While held, sets your speed stat to 1.5 if it isn't already that high. If your speed stat is already higher then that value is still used.\nmain.js:490 • Upon use, Isaac charges in the direction the pony is facing, becoming invulnerable during the charge and damaging enemies while also casting the effect of Crack The Sky.\nmain.js:490 • The charge of the spacebar attack deals 40 damage on contact with enemies and the beams deal 20 damage.\nmain.js:490 • Drops from the Conquest boss fight.\nmain.js:490 • When you only have half a heart remaining or less, you enter a curse state which adds +1.5 damage and +0.3 speed.\nmain.js:490 • When playing as Eve, this item activates with one FULL heart remaining or less AND also removes her 0.75 damage multiplier, raising it up to 1.0.\nmain.js:490 • The effect is permanently active for characters with no red hearts (e.g. Blue Baby, The Lost).\nmain.js:490 • One of Eve's starting items.\nmain.js:490 • +0.7 Tears Up.\nmain.js:490 • +0.3 Speed Up.\nmain.js:490 • Reveals the entrance to secret rooms and automatically opens the hole, removing the need for bombs to enter.\nmain.js:490 • Heals Isaac for one whole red heart.\nmain.js:490 • Maggy starts with this item.\nmain.js:490 • Has a chance to drop from the Super Lust miniboss fight.",
+			"file": "/G/Downloads/isaac-items/The Binding of Isaac_ Rebirth Items _ Isaac Cheat Sheet - Platinum God_files/dump_test.json",
+			"file_size": 201957,
+			"file_write_time": 130896853630963847,
+			"settings":
+			{
+				"buffer_size": 76117,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"print",
+				"Snippet: snippet.printr"
+			],
+			[
+				"ptin",
+				"Package Control: Install Package"
+			],
+			[
+				"comment",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"short",
+				"Snippet: Shortcode"
+			],
+			[
+				"pritn",
+				"Snippet: snippet.printr"
+			],
+			[
+				"comm",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"commet",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"Snippet: register_sidebar All Options"
+			],
+			[
+				"enqueue",
+				"Snippet: WordPress Enqueue Script"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"ocmment",
+				"Toggle Comment"
+			],
+			[
+				"com ment",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"commen",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"transition",
+				"Snippet: CSS - transition: ;"
+			],
+			[
+				"convert ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"section",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"section comment",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"prin",
+				"Snippet: PHP print_r"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sfpt",
+				"SFTP: Setup Server…"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Programming/NodeJS/ionic-isaac-items"
+	],
+	"file_history":
+	[
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444878621/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444879336/mapped/public_html/pacifictruck.emc2.build/wp-content/plugins/pacific-truck/pacific-truck.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444879359/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444886482/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/js/main.js",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444886454/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/content-pt_inventory.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444878621/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/js/main.js",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444886450/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/single-pt_inventory.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444878432/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/js/main.js",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444702331/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/header.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444708509/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/js/main.js",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444712541/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/content-pt_inventory.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444714768/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/single-pt_inventory.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444704054/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444708316/mapped/public_html/pacifictruck.emc2.build/wp-content/plugins/pacific-truck/pacific-truck.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444702314/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/style.css",
+		"/C/Users/Eric/AppData/Local/Temp/Rar$DIa0.833/footer.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444705546/mapped/public_html/pacifictruck.emc2.build/wp-content/plugins/facetwp-select2-master/facetwp-select2.php",
+		"/G/Websites_Library/PacificTruck/QA/facetwp-select2-1/facetwp-select2.php",
+		"/G/Websites_Library/PacificTruck/QA/facetwp-select2-1/README.md",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444702314/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/functions.php",
+		"/C/Users/Eric/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Eric/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444018226/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/taxonomy-ptinv_tax.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443986409/mapped/public_html/pacifictruck.emc2.build/wp-content/plugins/pacific-truck/pacific-truck.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443986225/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/js/main.js",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444020275/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/header.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443986077/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443987337/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/single-pt_inventory.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444017502/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/content-pt_inventory.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443988488/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/style.css",
+		"/C/Users/Eric/AppData/Local/Temp/Rar$EXa0.772/museo700-regular-demo.html",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444018761/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/header.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443991539/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/archive-pt_inventory.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444017760/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/archive-pt_inventory.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444017337/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/twentyfifteen/archive.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444017367/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/twentyfifteen/content.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444017124/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/content-pt_inventory-list.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1444017226/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/Divi/single.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443987344/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/Divi/page.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443593354/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443141104/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/footer.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443589095/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443593367/mapped/public_html/pacifictruck.emc2.build/wp-content/plugins/pacific-truck/pacific-truck.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443141083/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/header.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443148988/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443141346/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443141091/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/Divi/footer.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443141073/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/Divi/header.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1443141083/mapped/public_html/pacifictruck.emc2.build/wp-content/themes/pactruck/footer.php",
+		"/G/Websites_Library/PacificTruck/QA/wp-content/themes/pactruck/header.php",
+		"/G/Websites_Library/PacificTruck/PROD/sftp-config.json",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1442982508/mapped/public_html/pacifictruck.emc2.build/wp-content/plugins/pacific-truck/pacific-truck.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1442982513/mapped/public_html/pacifictruck.emc2.build/wp-content/plugins/hello.php",
+		"/G/Websites_Library/PacificTruck/PROD/backup/fourd/test/3de17d9d_prevv1.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1436329871/mapped/mtdxuals.php",
+		"/G/Websites_Library/PacificTruck/PROD/backup/mtdxuals.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1436329742/mapped/fourd/test/3de17d9d_prevv1.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1436328654/mapped/zip.php",
+		"/G/Websites_Library/PacificTruck/sftp-config.json",
+		"/C/Users/Eric/AppData/Local/Temp/fz3temp-2/car.php",
+		"/C/Users/Eric/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435787510/mapped/var/www/html/themes/fresh-gourmet/sass/theme/_colors.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435787510/mapped/var/www/html/themes/fresh-gourmet/sass/theme/_structure.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435787510/mapped/var/www/html/themes/fresh-gourmet/sass/theme/_typography.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435789375/mapped/var/www/html/themes/fresh-gourmet/sass/lib/bitters/_variables.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435794150/mapped/var/www/html/themes/fresh-gourmet/sass/lib/bitters/_typography.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435783631/mapped/var/www/html/themes/fresh-gourmet/partials/testimonials.htm",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435783631/mapped/var/www/html/themes/fresh-gourmet/partials/footer.htm",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435783648/mapped/var/www/html/themes/fresh-gourmet/layouts/default.htm",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435787558/mapped/var/www/html/themes/fresh-gourmet/pages/home.htm",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435782505/mapped/var/www/html/themes/fresh-gourmet/sass/app.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435787510/mapped/var/www/html/themes/fresh-gourmet/sass/theme/_footer.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435789947/mapped/var/www/html/themes/fresh-gourmet/sass/lib/_normalize.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435788213/mapped/var/www/html/themes/fresh-gourmet/sass/lib/bitters/_typography.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435789276/mapped/var/www/html/themes/fresh-gourmet/sass/lib/bourbon/addons/_font-stacks.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435788306/mapped/var/www/html/themes/fresh-gourmet/Guardfile",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435788815/mapped/var/www/html/themes/fresh-gourmet/Gemfile",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435783892/mapped/var/www/html/themes/fresh-gourmet/sass/lib/bitters/_grid-settings.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435786597/mapped/var/www/html/themes/fresh-gourmet/sass/lib/neat/_neat.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435786274/mapped/var/www/html/themes/fresh-gourmet/sass/lib/_animate.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435785101/mapped/var/www/html/themes/fresh-gourmet/sass/lib/_normalize.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435784766/mapped/var/www/html/themes/demo/layouts/default.htm",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435783859/mapped/var/www/html/themes/fresh-gourmet/sass/lib/neat/_neat-helpers.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435782251/mapped/var/www/html/themes/fresh-gourmet/sass/app.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435782048/mapped/var/www/html/themes/fresh-gourmet/css/app.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435781277/mapped/var/www/html/themes/fresh-gourmet/Guardfile",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435781010/mapped/var/www/html/themes/fresh-gourmet/partials/footer.htm",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435781055/mapped/var/www/html/themes/fresh-gourmet/sass/app.scss",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435781217/mapped/var/www/html/themes/fresh-gourmet/.gemrc",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435622686/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435629899/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/css/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435629890/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1435622643/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-config.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1433992433/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/Divi/includes/functions/sidebars.php",
+		"/C/Users/Eric/AppData/Local/Temp/fz3temp-1/class-wp-json.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1433992408/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/Divi/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1433903953/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1433903640/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/css/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1433990551/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/Divi/js/custom.js",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1433992384/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/Divi/sidebar.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1433903621/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430696679/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430694456/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/css/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430280639/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/Divi/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430277574/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/sidebar-footer.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430277574/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/footer.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430276815/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/functions.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430277548/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/header.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430285944/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/css/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430276323/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/css/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430276323/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/style.css",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430278513/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/Divi/sidebar-footer.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430277541/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/Divi/header.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430277563/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/Divi/footer.php",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1430277556/mapped/home/emc2buil/public_html/shoreside.emc2.build/wp-content/themes/shoreside/footer.php",
+		"/G/Electronics/Projects/NRF24L01 Remote Light Switch/README.md",
+		"/C/Users/Eric/Documents/Arduino/avr/cores/tiny/TinyDebugSerial.h",
+		"/C/Users/Eric/AppData/Local/Temp/fz3temp-1/index.htm",
+		"/C/Users/Eric/Documents/Arduino/avr/cores/tiny/TinyDebugSerial.cpp",
+		"/G/Downloads/woocommerce.php",
+		"/G/Arduino/dsc_1832/README.md",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1428547061/mapped/home/raganadv/public_html/lmg.raganadvertising.ca/app2/lmg-finance/www/js/pickadate/lib/compressed/picker.js",
+		"/G/Websites_Library/LMGFinance/lmg-app-prototype/lmg-prototype/www/js/app.js",
+		"/G/Websites_Library/LMGFinance/lmg-app-prototype/lmg-prototype/www/config.xml",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1425525417/mapped/home/raganadv/public_html/lmg.raganadvertising.ca/app2/lmg-finance/www/js/calc.js",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1416163316/mapped/public_html/lmg.raganadvertising.ca/app2/lmg-finance/www/js/app.utility.js",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1416163327/mapped/public_html/lmg.raganadvertising.ca/app2/lmg-finance/www/js/app.js",
+		"/C/users/eric/appdata/local/temp/sublime-sftp-browse-1414952753/mapped/public_html/lmg.raganadvertising.ca/app2/lmg-finance/www/config.xml"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main.js:490 • ",
+			"    \n",
+			"    ",
+			"unlock",
+			"\"tags\": ",
+			"\"effects\":",
+			"effects\"",
+			"pickup\"",
+			"\"title\":",
+			"\"sid\":",
+			"\"cid\":",
+			"\"tid\":",
+			"\"tid\"",
+			"pickup",
+			"rechar",
+			"loadrebir",
+			"single",
+			"</dt>",
+			"single",
+			"row",
+			"entry-content",
+			"bread",
+			"single",
+			"carousel",
+			"single",
+			"carousel",
+			" – ",
+			".ca",
+			" – ",
+			"phone",
+			"site-phone",
+			"</dt>",
+			"<dd>",
+			"</em>",
+			"  -  ",
+			"<dd>",
+			"  -  ",
+			"</dt>",
+			":",
+			"-reset",
+			"717",
+			"slick-arrow",
+			"load_mini",
+			"my_facetwp_pager_html",
+			"et_pb_button",
+			"price",
+			"image_size",
+			"loaded",
+			"fire",
+			"pt_phone",
+			">\n",
+			"big-phone",
+			"features",
+			"details",
+			"custom_excerpt_length",
+			"pt-img",
+			"my_facetwp_sort_options",
+			"search inventory",
+			"custom-breads",
+			"my_class_names",
+			"my_facetwp_facet_html",
+			"slider",
+			"134",
+			"inv-img",
+			"rewrite",
+			"inset",
+			"style=\"color: #7EBEC5;\"",
+			"mobile",
+			"top-header",
+			"float-left",
+			"fff",
+			"8px",
+			"696868",
+			"color",
+			"acf_load_color_field_choices",
+			" Delete Record",
+			"Edit Record ",
+			"forcehttps",
+			"https",
+			"<p>",
+			"\n",
+			"{",
+			":",
+			"colums",
+			"h1",
+			"hel",
+			"helve",
+			"row",
+			"map",
+			"left:",
+			"180",
+			"layout_light",
+			", ",
+			"margin-left",
+			"promo",
+			"sidebar",
+			"width",
+			"gallery",
+			"Spark",
+			", ",
+			" ",
+			", ",
+			"outline",
+			"shoreside",
+			"col-left",
+			"strip",
+			"TinyDebugSerial",
+			"yiw_shop_large_w()",
+			"price_filter_init",
+			"$woocommerce->get_image_size",
+			"woocommerce->get_image_size",
+			"2.9.7",
+			"creation",
+			"js__",
+			"xsdDateTime",
+			"push",
+			"2.9.6",
+			"2.9.5",
+			"ragan",
+			"2.9.3",
+			"ragan",
+			"com.lmg.prototype2",
+			"2.9.2",
+			"2014",
+			"877",
+			"2.9.1",
+			"2.9.0",
+			"map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"years",
+			"2.2.6",
+			"2.2.5",
+			"",
+			"<li><a href=\"../contactus.html\">Contact Us</a></li><li><a href=\"../safety.html\">Safety</a></li>",
+			"<li><a href=\"../../contactus.html\">Contact Us</a></li><li><a href=\"../../safety.html\">Safety</a></li>",
+			"<li><a href=\"../contactus.html\">Contact Us</a></li><li><a href=\"../safety.html\">Safety</a></li>",
+			"<li><a href=\"contactus.html\">Contact Us</a></li><li><a href=\"safety.html\">Safety</a></li>",
+			"$",
+			"/wp-content/themes/mhp/images/",
+			"<a href=\"http://kamloopsinsurance.ca\" target=\"_blank\"><img src=\"images/sponsor_KamInsurance.gif\" width=\"130\" height=\"43\" alt=\"Kamloops Insurance Services\" /></a>",
+			"<span class=\"tableh2\"><a href=\"http://ragan.ca\" target=\"_blank\"><img src=\"images/ragan.png\" alt=\"Ragan Advertising\" /></a></span>",
+			"<a href=\"http://ragan.ca\" target=\"_blank\">Ragan Advertising</a>",
+			"Copyright &copy; 2013",
+			"<a href=\"http://ragan.ca\" target=\"_blank\">Ragan Advertising</a>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ionic-isaac-items.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/G/Downloads/isaac-items/The Binding of Isaac_ Rebirth Items _ Isaac Cheat Sheet - Platinum God_files/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15668,
+								15668
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10073.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/G/Downloads/isaac-items/The Binding of Isaac_ Rebirth Items _ Isaac Cheat Sheet - Platinum God_files/dump_test.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2776,
+								2787
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.19801980198,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"output.stino_log":
+	{
+		"height": 102.0
+	},
+	"output.webservertutorial":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "ionic-isaac-items.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

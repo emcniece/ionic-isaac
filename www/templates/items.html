@@ -1,0 +1,23 @@
+<ion-view view-title="Binding of Isaac Items">
+
+  <ion-header class="bar bar-subheader">
+    <label class="item item-input">
+      <i class="icon ion-search placeholder-icon"></i>
+      <input type="text" placeholder="Search Anything..." ng-model="searchTerm">
+    </label>
+  </ion-header>
+
+  <ion-content class="has-subheader items-container">
+
+      <ion-list>
+        <ion-item
+          class="item-icon-left"
+          ng-repeat="item in items | searchItems:searchTerm"
+          href="#/app/item/{{ item.sid }}">
+            <i class="icon rebirth-item r-itm{{ helpers.pad(item.sid, 3) }}"></i>
+            {{item.title}}
+        </ion-item>
+      </ion-list>
+
+  </ion-content>
+</ion-view>
