@@ -84,6 +84,10 @@ angular.module('bos-items.controllers', [])
   var urlBase = '/';
   var itemFactory = {};
 
+  if(ionic.Platform.isAndroid()){
+    urlBase = "/android_asset/www/";
+  }
+
   itemFactory.getItem = function(id){
     /* How to make this async, and where?
     id = parseInt(id, 10);
